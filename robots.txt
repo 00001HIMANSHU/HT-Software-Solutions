@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://00001himanshu.github.io/HT-Software-Solutions/sitemap.xml
