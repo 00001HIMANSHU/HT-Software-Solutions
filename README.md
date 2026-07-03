@@ -226,15 +226,15 @@ Frontend Developer
 
 LinkedIn
 
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/himanshu-tonger-963310222/
 
 Portfolio
 
-https://YOUR-PORTFOLIO
+https://00001himanshu.github.io/himanshu-tonger-portfolio/
 
 GitHub
 
-https://github.com/YOUR-GITHUB
+https://github.com/00001HIMANSHU
 
 Email
 
