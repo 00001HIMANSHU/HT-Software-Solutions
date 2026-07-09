@@ -1,4 +1,4 @@
-# 🚀 HT Software Solutions
+# 🚀 Himanshu Tonger Software Solutions
 
 > Building Modern Websites, AI Solutions & Custom Software for Businesses.
 
@@ -20,7 +20,7 @@ https://00001himanshu.github.io/HT-Software-Solutions/
 
 # 📌 Project Overview
 
-HT Software Solutions is a modern business website developed to showcase professional software development services.
+Himanshu Tonger Software Solutions is a modern business website developed to showcase professional software development services.
 
 The website represents a software company that provides innovative digital solutions including Website Development, AI Solutions, Mobile Applications, Cloud Services, Business Automation, and Custom Software Development.
 
@@ -250,4 +250,4 @@ It motivates me to build more professional open-source projects.
 
 ---
 
-© 2026 HT Software Solutions. All Rights Reserved.
+© 2026 Himanhu Tonger Software Solutions. All Rights Reserved.
