@@ -32,18 +32,38 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Himanshu Tonger Software Solutions",
-  "url": "https://00001himanshu.github.io/HT-Software-Solutions/",
-  "logo": "https://00001himanshu.github.io/HT-Software-Solutions/favicon.png",
-  "founder": {
-    "@type": "Person",
-    "name": "Himanshu Tonger"
-  },
-  "description": "HT Software Solutions provides Website Development, AI Solutions, Mobile App Development, Cloud Services and Custom Software Development.",
-  "sameAs": [
-    "https://github.com/00001HIMANSHU",
-    "https://www.linkedin.com/in/himanshu-tonger-963310222/"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://00001himanshu.github.io/HT-Software-Solutions/#himanshu-tonger",
+      "name": "Himanshu Tonger",
+      "url": "https://00001himanshu.github.io/HT-Software-Solutions/",
+      "image": "https://00001himanshu.github.io/HT-Software-Solutions/about-hero.png",
+      "jobTitle": "Founder & Software Developer",
+      "description": "Himanshu Tonger is the founder of Himanshu Tonger Software Solutions and a software developer focused on AI solutions, web development and digital technologies.",
+      "worksFor": {
+        "@id": "https://00001himanshu.github.io/HT-Software-Solutions/#organization"
+      },
+      "sameAs": [
+        "https://github.com/00001HIMANSHU",
+        "https://www.linkedin.com/in/himanshu-tonger-963310222/"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://00001himanshu.github.io/HT-Software-Solutions/#organization",
+      "name": "Himanshu Tonger Software Solutions",
+      "url": "https://00001himanshu.github.io/HT-Software-Solutions/",
+      "logo": "https://00001himanshu.github.io/HT-Software-Solutions/favicon.png",
+      "description": "Himanshu Tonger Software Solutions provides website development, AI solutions, mobile app development, cloud services and custom software development.",
+      "founder": {
+        "@id": "https://00001himanshu.github.io/HT-Software-Solutions/#himanshu-tonger"
+      },
+      "sameAs": [
+        "https://github.com/00001HIMANSHU",
+        "https://www.linkedin.com/in/himanshu-tonger-963310222/"
+      ]
+    }
   ]
 }
 </script>
